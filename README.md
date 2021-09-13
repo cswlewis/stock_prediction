@@ -8,5 +8,5 @@ The model typically *lost* money in the long term due to the predictions being t
 
 ![BTC-USD stock_2021-09-13_plot](https://user-images.githubusercontent.com/19304904/133164044-a0d8cb48-21bb-4d49-9d6d-e452acf4aa46.jpg)
 
-
+It can be seen that the behaviour of the prediction appears to just lag the real data.
 
